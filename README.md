@@ -1,8 +1,8 @@
 README
 ======
 
-
 Real-time Detection and Recognition of Environmental Sounds. 
+See the PDF report for an in-depth explanation of the system.
 
 The application is structured in the following directories:
 
